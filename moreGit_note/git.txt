@@ -16,3 +16,5 @@
 
 # GIT COMMIT
     git commit -m "commit message (perubahan OPSIONAL)"
+
+# GIT PUSH
